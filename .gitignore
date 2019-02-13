@@ -1,0 +1,3 @@
+*.log
+fileToIgnore.txt
+Migrations/
